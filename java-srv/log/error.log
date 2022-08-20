@@ -1,0 +1,1 @@
+[ERROR] DriverManagerConnectionProviderImpl Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://db/animal 
